@@ -4,9 +4,10 @@
 
 ### Hey 👋
 
-#### A Freelance Software Engineer (Full-stack) by day ☼ and a Jiu-Jitsu practioner by night ☾
+#### A Freelance Software Engineer by day ☼ and a Jiu-Jitsu practioner by night ☾
 
 Freelance Software Engineer <br>
+Fullstack, Backend, Frontend <br>
 
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `react`, `nextjs`
 - 🖥 Developed: [Pega Sports](https://pegasports.com.au/), [Flow of Code](https://flowofcode.com)
