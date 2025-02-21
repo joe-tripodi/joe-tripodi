@@ -9,6 +9,6 @@
 Freelance Software Engineer <br>
 Fullstack, Backend, Frontend <br>
 
-- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `react`, `nextjs`
+- ⚙️ I use daily: `.go`, `.c`, `.ruby`, `.js`
 - 🖥 Developed: [Pega Sports](https://pegasports.com.au/), [Flow of Code](https://flowofcode.com)
 - 💬 `ping` me about **web development**, **API Integrations**, **Shopify**, **development**, **anything else**
